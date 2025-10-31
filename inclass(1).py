@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9a177e8283dd233cda1efd24026bc87163058e1d
 # ---
 # jupyter:
 #   jupytext:
@@ -13,7 +16,11 @@
 #     display_name: Python 3
 #     language: python
 #     name: python3
+<<<<<<< HEAD
 # 
+=======
+# ---
+>>>>>>> 9a177e8283dd233cda1efd24026bc87163058e1d
 
 # %%
 # load our libraries setup up our environment for data analysis and visualization
